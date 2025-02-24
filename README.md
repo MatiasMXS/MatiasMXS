@@ -14,6 +14,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 ## ⌨️ Languages:
 
@@ -61,9 +63,9 @@
 
 
 ## My GitHub Stats:
-
-<br>
 <img align="right" width=300px alt="Coding" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
+<br>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasMXS&langs_count=10&theme=tokyonight&layout=compact" alt="MatiasMXS :: Top Langs" /></p>
 
 <br>
