@@ -3,7 +3,6 @@
 ## 😊 &nbsp;About Me
 
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" />
- (MongoDB, Express.js, React, Node.js) . I also have knowledge in C, C++ and Java.
 
 👨🏻‍💻 &nbsp;I am a junior Full Stack developer with experience in the MERN Stack,  JavaScript C, C++ and others.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
